@@ -317,49 +317,6 @@
   {
     "name": "Contraband Expansion 1 (Crown)",
     "requiredItems": [
-      { "name": "Stims", "quantity": 9 },
-      { "name": "Bandages", "quantity": 6 }
-    ],
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 2 (Crown)",
-    "requiredItems": [
-      { "name": "Lighters, Comics, Cigar Boxes, or Documents", "quantity": 15 },
-      { "name": "Gas Cans", "quantity": 5 }
-    ],
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 3 (Crown)",
-    "requiredItems": [
-      { "name": "Blow Torches", "quantity": 16 },
-      { "name": "Car Batteries", "quantity": 8 },
-      { "name": "Jumper Cables", "quantity": 12 }
-    ],
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 4",
-    "requiredItems": [
-      {"name": "Armor Plate Boxes", "quantity": 3},
-      {"name": "Armor Plates", "quantity": 15},
-      {"name": "Three-Plate Vests", "quantity": 5}
-    ],
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 5",
-    "requiredItems": [
-      {"name": "UAV or AUAV", "quantity": 10},
-      {"name": "Encrypted Hard Drives", "quantity": 20},
-      {"name": "Anti-Armor Round Boxes", "quantity": 12}
-    ],
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 1 (Crown)",
-    "requiredItems": [
       {"name": "Stims", "quantity": 9},
       {"name": "Bandages", "quantity": 6}
     ],
