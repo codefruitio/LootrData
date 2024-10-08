@@ -38,10 +38,22 @@
   {
     "name": "Wallet Expansion 2",
     "requiredItems": [
-      { "name": "Thumb Drives", "quantity": 4 },
-      { "name": "Encrypted Hard Drives", "quantity": 2 },
-      { "name": "Laptops", "quantity": 4 },
-      { "name": "Hard Drives", "quantity": 8 }
+      { 
+        "name": "Thumb Drives",
+        "quantity": 4
+      },
+      { 
+        "name": "Encrypted Hard Drives",
+        "quantity": 2
+      },
+      { 
+        "name": "Laptops",
+        "quantity": 4
+      },
+      { 
+        "name": "Hard Drives",
+        "quantity": 8
+      }
     ],
     "reward": "$150k wallet capacity increase"
   },
