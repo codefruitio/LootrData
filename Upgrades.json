@@ -463,7 +463,7 @@
   {
     "name": "Comms Plate Carrier Barter",
     "requiredItems": [
-      {"name": "Kill the Wheelson", "quantity": 1, "location": "Ashika Island", "action": "Kill"}
+      {"name": "Kill the Wheelson", "quantity": 1, "location": "Yo Mama", "action": "Kill"}
     ],
     "reward": "Comms Plate Carrier"
   },
