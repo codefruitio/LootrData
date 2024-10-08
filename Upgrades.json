@@ -4,9 +4,9 @@
     "requiredItems": [
       {
         "name": "100k Cash",
-        "quantity": 1,
-        "location": "All Maps",
-        "action": "Exfil"
+        "quantity": 12,
+        "location": "Test Update",
+        "action": "Run"
       }
     ],
     "reward": "Wallet"
