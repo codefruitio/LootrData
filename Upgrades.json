@@ -41,18 +41,26 @@
       { 
         "name": "Thumb Drives",
         "quantity": 4
+        "location": "All Maps",
+        "action": "Exfil"
       },
       { 
         "name": "Encrypted Hard Drives",
         "quantity": 2
+        "location": "All Maps",
+        "action": "Exfil"
       },
       { 
         "name": "Laptops",
         "quantity": 4
+        "location": "All Maps",
+        "action": "Exfil"
       },
       { 
         "name": "Hard Drives",
         "quantity": 8
+        "location": "All Maps",
+        "action": "Exfil"
       }
     ],
     "reward": "$150k wallet capacity increase"
