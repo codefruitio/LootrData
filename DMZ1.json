@@ -814,27 +814,6 @@
     "reward": "1 extra safe from Destroy Supplies"
   },
   {
-    "name": "Increased Commander Intel",
-    "requiredItems": [
-      {
-        "name": "Weapons",
-        "quantity": 20,
-        "action": "Dead Drop"
-      },
-      {
-        "name": "RGL-80S",
-        "quantity": 3,
-        "action": "Dead Drop"
-      },
-      {
-        "name": "Enemy Weapons",
-        "quantity": 10,
-        "action": "Dead Drop"
-      }
-    ],
-    "reward": "Weapon stashes hold more items"
-  },
-  {
     "name": "Increased Safe Contents",
     "requiredItems": [
       {
