@@ -7,6 +7,12 @@
         "quantity": 1,
         "location": "All Maps",
         "action": "Exfil"
+      },
+      {
+        "name": "1 Million Cash",
+        "quantity": 1,
+        "location": "All Maps",
+        "action": "Exfil"
       }
     ],
     "reward": "Wallet"
