@@ -710,6 +710,7 @@
         "quantity": 1
       }
     ],
+    "group": "Daily Missions",
     "reward": "Black Mous Daily Urgent Missions"
   },
   {
@@ -720,6 +721,7 @@
         "quantity": 2
       }
     ],
+    "group": "Daily Missions",
     "reward": "White Lotus Daily Urgent Missions"
   },
   {
@@ -730,6 +732,7 @@
         "quantity": 3
       }
     ],
+    "group": "Daily Missions",
     "reward": "Phalanx Daily Urgent Missions"
   },
   {
@@ -740,6 +743,7 @@
         "quantity": 3
       }
     ],
+    "group": "Daily Missions",
     "reward": "Crown Daily Urgent Missions"
   },
   {
@@ -751,6 +755,7 @@
         "action": "Dead Drop"
       }
     ],
+    "group": "Daily Missions",
     "reward": "Shadow Company Daily Urgent Missions"
   },
   {
@@ -761,6 +766,7 @@
         "quantity": 12
       }
     ],
+    "group": "Weekly Missions",
     "reward": "Black Mous Weekly Urgent Missions"
   },
   {
@@ -771,6 +777,7 @@
         "quantity": 10
       }
     ],
+    "group": "Weekly Missions",
     "reward": "White Lotus Weekly Urgent Missions"
   },
   {
@@ -781,6 +788,7 @@
         "quantity": 10
       }
     ],
+    "group": "Weekly Missions",
     "reward": "Crown Weekly Urgent Missions"
   },
   {
@@ -791,6 +799,7 @@
         "quantity": 5
       }
     ],
+    "group": "Weekly Missions",
     "reward": "Phalanx Weekly Urgent Missions"
   },
   {
@@ -802,6 +811,7 @@
         "location": "Building 21"
       }
     ],
+    "group": "Weekly Missions",
     "reward": "Shadow Company Weekly Urgent Missions"
   },
   {
@@ -813,6 +823,7 @@
         "action": "Contracts"
       }
     ],
+    "group": "Contracts",
     "reward": "10% Contract Payment Increase"
   },
   {
@@ -824,6 +835,7 @@
         "action": "Contracts"
       }
     ],
+    "group": "Contracts",
     "reward": "10% Contract Payment Increase"
   },
   {
@@ -853,6 +865,7 @@
         "quantity": 3
       }
     ],
+    "group": "Intel",
     "reward": "2nd Marked Commander from Intel"
   },
   {
@@ -871,6 +884,7 @@
         "quantity": 20
       }
     ],
+    "group": "Intel",
     "reward": "1 extra safe from Destroy Supplies"
   },
   {
@@ -886,6 +900,7 @@
         "quantity": 8
       }
     ],
+    "group": "Caches",
     "reward": "Safes hold more items"
   },
   {
@@ -907,6 +922,7 @@
         "action": "Dead Drop"
       }
     ],
+    "group": "Caches",
     "reward": "Supply caches hold more items"
   },
   {
@@ -937,6 +953,7 @@
         "quantity": 3
       }
     ],
+    "group": "UAV",
     "reward": "30 second UAV Tower increase"
   },
   {
@@ -960,6 +977,7 @@
         "quantity": 10
       }
     ],
+    "group": "UAV",
     "reward": "30 second UAV Tower increase"
   },
   {
@@ -983,6 +1001,7 @@
         "quantity": 10
       }
     ],
+    "group": "UAV",
     "reward": "30 second UAV Tower increase"
   },
   {
@@ -1002,6 +1021,7 @@
         "quantity": 8
       }
     ],
+    "group": "Sam Site",
     "reward": "30 second SAM Site increase"
   },
   {
@@ -1025,6 +1045,7 @@
         "quantity": 1
       }
     ],
+    "group": "Sam Site",
     "reward": "30 second SAM Site increase"
   },
   {
@@ -1047,6 +1068,7 @@
         "quantity": 16
       }
     ],
+    "group": "Sam Site",
     "reward": "30 second SAM Site increase"
   },
   {
@@ -1057,6 +1079,7 @@
         "quantity": 10
       }
     ],
+    "group": "Exfil Chopper",
     "reward": "Exfil Chopper Arrives Faster"
   }
 ]
