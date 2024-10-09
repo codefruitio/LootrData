@@ -9,6 +9,7 @@
         "action": "Exfil"
       }
     ],
+    "group": "Test",
     "reward": "Wallet"
   },
   {
