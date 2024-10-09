@@ -152,6 +152,7 @@
       { "name": "Nuclear Fuel Rods", "quantity": 10 },
       { "name": "Radiation Blockers", "quantity": 2 }
     ],
+    "group": "Stash",
     "reward": "5 Stash Slots"
   },
   {
@@ -161,6 +162,7 @@
       { "name": "Cigar Boxes", "quantity": 9, "location": "Ashika Island" },
       { "name": "Asprin", "quantity": 3 }
     ],
+    "group": "Stash",
     "reward": "5 Stash Slots"
   },
   {
@@ -170,6 +172,7 @@
       { "name": "AFAKs", "quantity": 10 },
       { "name": "Large Medical Bags", "quantity": 5 }
     ],
+    "group": "Stash",
     "reward": "4 Stash Slots"
   },
   {
@@ -180,6 +183,7 @@
       { "name": "Dog Tags", "quantity": 3 },
       { "name": "Screwdrivers", "quantity": 5 }
     ],
+    "group": "Stash",
     "reward": "3 Stash Slots"
   },
   {
@@ -189,6 +193,7 @@
       { "name": "Documents", "quantity": 40 },
       { "name": "Sensitive Documents", "quantity": 16 }
     ],
+    "group": "Stash",
     "reward": "3 Stash Slots"
   },
   {
@@ -198,6 +203,7 @@
       { "name": "IFAKs", "quantity": 4 },
       { "name": "Radiation Blockers", "quantity": 1 }
     ],
+    "group": "Stash",
     "reward": "3 Stash Slots"
   },
   {
@@ -206,6 +212,7 @@
       { "name": "Vases", "quantity": 6, "location": "Ashika Island" },
       { "name": "Japanese Liquor", "quantity": 3, "location": "Ashika Island" }
     ],
+    "group": "Stash",
     "reward": "3 Stash Slots"
   },
   {
@@ -216,6 +223,7 @@
       { "name": "Gas Cans", "quantity": 3 },
       { "name": "Cans of Food", "quantity": 8 }
     ],
+    "group": "Stash",
     "reward": "2 Stash Slots"
   },
   {
@@ -224,6 +232,7 @@
       { "name": "Large Medical Bags", "quantity": 8 },
       { "name": "Asprin", "quantity": 8 }
     ],
+    "group": "Stash",
     "reward": "1 Stash Slots"
   },
   {
@@ -234,6 +243,7 @@
       { "name": "Liquid Nitrogen", "quantity": 2 },
       { "name": "Nuclear Fuel Rods", "quantity": 14 }
     ],
+    "group": "Stash",
     "reward": "1 Stash Slots"
   },
   {
