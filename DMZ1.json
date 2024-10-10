@@ -1,1086 +1,1176 @@
 [
-  {
-    "name": "Unlock Wallet",
-    "requiredItems": [
-      {
-        "name": "100k Cash",
-        "quantity": 1,
-        "location": "All Maps",
-        "action": "Exfil"
-      }
-    ],
-    "group": "Wallet",
-    "reward": "Wallet"
-  },
-  {
-    "name": "Wallet Expansion 1",
-    "requiredItems": [
-      {
-        "name": "Liquor",
-        "quantity": 10,
-        "location": "All Maps",
-        "action": "Exfil"
-      },
-      {
-        "name": "Aged or Vintage Wine",
-        "quantity": 2,
-        "location": "All Maps",
-        "action": "Exfil"
-      },
-      {
-        "name": "Wine",
-        "quantity": 6,
-        "location": "All Maps",
-        "action": "Exfil"
-      }
-    ],
-    "group": "Wallet",
-    "reward": "$150k wallet capacity increase"
-  },
-  {
-    "name": "Wallet Expansion 2",
-    "requiredItems": [
-      { 
-        "name": "Thumb Drives",
-        "quantity": 4,
-        "location": "All Maps",
-        "action": "Exfil"
-      },
-      { 
-        "name": "Encrypted Hard Drives",
-        "quantity": 2,
-        "location": "All Maps",
-        "action": "Exfil"
-      },
-      { 
-        "name": "Laptops",
-        "quantity": 4,
-        "location": "All Maps",
-        "action": "Exfil"
-      },
-      { 
-        "name": "Hard Drives",
-        "quantity": 8,
-        "location": "All Maps",
-        "action": "Exfil"
-      }
-    ],
-    "group": "Wallet",
-    "reward": "$150k wallet capacity increase"
-  },
-  {
-    "name": "Wallet Expansion 3",
-    "requiredItems": [
-      { "name": "GPUs", "quantity": 3 }
-    ],
-    "group": "Wallet",
-    "reward": "$100k wallet capacity increase"
-  },
-  {
-    "name": "Wallet Expansion 4",
-    "requiredItems": [
-      { "name": "Vintage Wine", "quantity": 6 },
-      { "name": "Japanese Liquor", "quantity": 16, "location": "Ashika Island" }
-    ],
-    "group": "Wallet",
-    "reward": "$100k wallet capacity increase"
-  },
-  {
-    "name": "Wallet Expansion 5",
-    "requiredItems": [
-      { "name": "Gold Bars", "quantity": 10 },
-      { "name": "Gold Skulls", "quantity": 6 }
-    ],
-    "group": "Wallet",
-    "reward": "$100k wallet capacity increase"
-  },
-  {
-    "name": "Wallet Expansion 1 (Crown)",
-    "requiredItems": [
-      { "name": "Gun Oil", "quantity": 3 },
-      { "name": "Electric Drills", "quantity": 2 },
-      { "name": "Batteries", "quantity": 5 }
-    ],
-    "group": "Wallet",
-    "reward": "$100k wallet capacity increase"
-  },
-  {
-    "name": "Wallet Expansion 2 (Crown)",
-    "requiredItems": [
-      { "name": "Electrical Tape", "quantity": 8 },
-      { "name": "Jumper Cables", "quantity": 6 },
-      { "name": "Car Batteries", "quantity": 3 }
-    ],
-    "group": "Wallet",
-    "reward": "$50k wallet capacity increase"
-  },
-  {
-    "name": "Wallet Expansion 3 (Crown)",
-    "requiredItems": [
-      { "name": "Screwdrivers", "quantity": 10 },
-      { "name": "Encrypted Hard Drives", "quantity": 4 },
-      { "name": "$500k Cash", "quantity": 1 },
-      { "name": "AQ Laptops", "quantity": 5 }
-    ],
-    "group": "Wallet",
-    "reward": "$50k wallet capacity increase"
-  },
-  {
-    "name": "Wallet Expansion 4 (Crown)",
-    "requiredItems": [
-      { "name": "VCRs", "quantity": 10 },
-      { "name": "GPUs", "quantity": 4 },
-      { "name": "Encrypted USB Sticks", "quantity": 6 },
-      { "name": "Game Consoles", "quantity": 10 }
-    ],
-    "group": "Wallet",
-    "reward": "$50k wallet capacity increase"
-  },
-  {
-    "name": "Wallet Expansion 5 (Crown)",
-    "requiredItems": [
-      { "name": "Lighters", "quantity": 30 },
-      { "name": "Electrical Components", "quantity": 40 },
-      { "name": "Ashika Old Film Canisters", "quantity": 20, "location": "Ashika Island" }
-    ],
-    "group": "Wallet",
-    "reward": "$50k wallet capacity increase"
-  },
-  {
-    "name": "Stash Expansion 1",
-    "requiredItems": [
-      { "name": "Nuclear Fuel Rods", "quantity": 10 },
-      { "name": "Radiation Blockers", "quantity": 2 }
-    ],
-    "group": "Stash",
-    "reward": "5 Stash Slots"
-  },
-  {
-    "name": "Stash Expansion 2",
-    "requiredItems": [
-      { "name": "Comic Books", "quantity": 5 },
-      { "name": "Cigar Boxes", "quantity": 9, "location": "Ashika Island" },
-      { "name": "Asprin", "quantity": 3 }
-    ],
-    "group": "Stash",
-    "reward": "5 Stash Slots"
-  },
-  {
-    "name": "Stash Expansion 3",
-    "requiredItems": [
-      { "name": "IFAKs", "quantity": 15 },
-      { "name": "AFAKs", "quantity": 10 },
-      { "name": "Large Medical Bags", "quantity": 5 }
-    ],
-    "group": "Stash",
-    "reward": "4 Stash Slots"
-  },
-  {
-    "name": "Stash Expansion 4",
-    "requiredItems": [
-      { "name": "MK32 Launcher", "quantity": 1 },
-      { "name": "Wrenches", "quantity": 5 },
-      { "name": "Dog Tags", "quantity": 3 },
-      { "name": "Screwdrivers", "quantity": 5 }
-    ],
-    "group": "Stash",
-    "reward": "3 Stash Slots"
-  },
-  {
-    "name": "Stash Expansion 5",
-    "requiredItems": [
-      { "name": "Classified Documents", "quantity": 8 },
-      { "name": "Documents", "quantity": 40 },
-      { "name": "Sensitive Documents", "quantity": 16 }
-    ],
-    "group": "Stash",
-    "reward": "3 Stash Slots"
-  },
-  {
-    "name": "Stash Expansion 1 (Crown)",
-    "requiredItems": [
-      { "name": "Bandages", "quantity": 8 },
-      { "name": "IFAKs", "quantity": 4 },
-      { "name": "Radiation Blockers", "quantity": 1 }
-    ],
-    "group": "Stash",
-    "reward": "3 Stash Slots"
-  },
-  {
-    "name": "Stash Expansion 2 (Crown)",
-    "requiredItems": [
-      { "name": "Vases", "quantity": 6, "location": "Ashika Island" },
-      { "name": "Japanese Liquor", "quantity": 3, "location": "Ashika Island" }
-    ],
-    "group": "Stash",
-    "reward": "3 Stash Slots"
-  },
-  {
-    "name": "Stash Expansion 3 (Crown)",
-    "requiredItems": [
-      { "name": "Food Rations", "quantity": 7 },
-      { "name": "Water Bottles", "quantity": 8 },
-      { "name": "Gas Cans", "quantity": 3 },
-      { "name": "Cans of Food", "quantity": 8 }
-    ],
-    "group": "Stash",
-    "reward": "2 Stash Slots"
-  },
-  {
-    "name": "Stash Expansion 4 (Crown)",
-    "requiredItems": [
-      { "name": "Large Medical Bags", "quantity": 8 },
-      { "name": "Asprin", "quantity": 8 }
-    ],
-    "group": "Stash",
-    "reward": "1 Stash Slots"
-  },
-  {
-    "name": "Stash Expansion 5 (Crown)",
-    "requiredItems": [
-      { "name": "Gun Oil", "quantity": 7 },
-      { "name": "Blow Torches", "quantity": 10 },
-      { "name": "Liquid Nitrogen", "quantity": 2 },
-      { "name": "Nuclear Fuel Rods", "quantity": 14 }
-    ],
-    "group": "Stash",
-    "reward": "1 Stash Slots"
-  },
-  {
-    "name": "Unlock 2nd Insured Slot",
-    "requiredItems": [
-      { "name": "AFAK or Large Medical Bag", "quantity": 1 },
-      { "name": "IFAKs", "quantity": 3 },
-      { "name": "Enemy Operator Weapon", "quantity": 1 }
-    ],
-    "group": "Insurance",
-    "reward": "2nd insurance weapon"
-  },
-  {
-    "name": "Unlock 3rd Insured Slot",
-    "requiredItems": [
-      { "name": "GPUs", "quantity": 5 },
-      { "name": "Enemy Operator Weapons", "quantity": 10 },
-      { "name": "Gold Bars", "quantity": 10 },
-      { "name": "Gold Skulls", "quantity": 8 }
-    ],
-    "group": "Insurance",
-    "reward": "3rd Insurance Weapon"
-  },
-  {
-    "name": "1st Insured Slot Cooldown 1",
-    "requiredItems": [
-      { "name": "Classified Documents", "quantity": 3 },
-      { "name": "400k Cash", "quantity": 1 },
-      { "name": "Gun Oil", "quantity": 4 }
-    ],
-    "group": "Insurance",
-    "reward": "25% cooldown reduction"
-  },
-  {
-    "name": "1st Insured Slot Cooldown 2",
-    "requiredItems": [
-      { "name": "Lightbulbs", "quantity": 7 },
-      { "name": "Enemy Operator Weapons", "quantity": 5 },
-      { "name": "Toothpaste", "quantity": 12 },
-      { "name": "Water Bottles", "quantity": 15 }
-    ],
-    "group": "Insurance",
-    "reward": "25% cooldown reduction"
-  },
-  {
-    "name": "2nd Insured Slot Cooldown 1",
-    "requiredItems": [
-      { "name": "Imported Tea", "quantity": 8 },
-      { "name": "Aged or Vintage Wine", "quantity": 4 },
-      { "name": "Soothing Hand Cream", "quantity": 8 }
-    ],
-    "group": "Insurance",
-    "reward": "25% cooldown reduction"
-  },
-  {
-    "name": "2nd Insured Slot Cooldown 2",
-    "requiredItems": [
-      { "name": "Hydrochloride", "quantity": 4 },
-      { "name": "Acetone", "quantity": 4 },
-      { "name": "Cephalexin", "quantity": 4 },
-      { "name": "Chlorine", "quantity": 4 },
-      { "name": "Hydrogen Peroxide", "quantity": 4 },
-      { "name": "Formaldehyde", "quantity": 4 }
-    ],
-    "group": "Insurance",
-    "reward": "25% cooldown reduction"
-  },
-  {
-    "name": "3rd Insured Slot Cooldown 1",
-    "requiredItems": [
-      { "name": "Lighters", "quantity": 20 },
-      { "name": "Cigar Boxes", "quantity": 35 }
-    ],
-    "group": "Insurance",
-    "reward": "25% cooldown reduction"
-  },
-  {
-    "name": "Contraband Expansion 1",
-    "requiredItems": [
-      { "name": "Hard Drives", "quantity": 5 },
-      { "name": "Thumb Drives", "quantity": 4 }
-    ],
-    "group": "Contraband",
-    "reward": "5 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 2",
-    "requiredItems": [
-      { "name": "Black Mous Intel", "quantity": 5, "location": "Al Mazrah - Rohal Oil" },
-      { "name": "Dog Tags", "quantity": 4 }
-    ],
-    "group": "Contraband",
-    "reward": "5 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 3",
-    "requiredItems": [
-      { "name": "Original Ashika Island Mask", "quantity": 1, "location": "Ashika Island" },
-      { "name": "Ashika Island Masks", "quantity": 6, "location": "Ashika Island" }
-    ],
-    "group": "Contraband",
-    "reward": "4 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 4",
-    "requiredItems": [
-      { "name": "Armor Plate Boxes", "quantity": 3 },
-      { "name": "Armor Plates", "quantity": 15 },
-      { "name": "Three-Plate Vests", "quantity": 5 }
-    ],
-    "group": "Contraband",
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 5",
-    "requiredItems": [
-      { "name": "UAV or AUAV", "quantity": 10 },
-      { "name": "Encrypted Hard Drives", "quantity": 20 },
-      { "name": "Anti-Armor Round Boxes", "quantity": 12 }
-    ],
-    "group": "Contraband",
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 1 (Crown)",
-    "requiredItems": [
-      {"name": "Stims", "quantity": 9},
-      {"name": "Bandages", "quantity": 6}
-    ],
-    "group": "Contraband",
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 2 (Crown)",
-    "requiredItems": [
-      {"name": "Lighters, Comics, Cigar Boxes, or Documents", "quantity": 15},
-      {"name": "Gas Cans", "quantity": 5}
-    ],
-    "group": "Contraband",
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 3 (Crown)",
-    "requiredItems": [
-      {"name": "Blow Torches", "quantity": 16},
-      {"name": "Car Batteries", "quantity": 8},
-      {"name": "Jumper Cables", "quantity": 12}
-    ],
-    "group": "Contraband",
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 4 (Crown)",
-    "requiredItems": [
-      {"name": "800 Sniper Ammo", "quantity": 1},
-      {"name": "1200 Shotgun Ammo", "quantity": 1},
-      {"name": "120 Launcher Ammo", "quantity": 1},
-      {"name": "3500 Pistol/SMG Ammo", "quantity": 1},
-      {"name": "6500 AR/LMG Ammo", "quantity": 1}
-    ],
-    "group": "Contraband",
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Contraband Expansion 5 (Crown)",
-    "requiredItems": [
-      {"name": "Gas Masks", "quantity": 30},
-      {"name": "Durable Gas Masks", "quantity": 10},
-      {"name": "Radiation Blockers", "quantity": 15}
-    ],
-    "group": "Contraband",
-    "reward": "3 Contraband Slots"
-  },
-  {
-    "name": "Increased Starting Armor 1",
-    "requiredItems": [
-      {"name": "Stronghold Keycards", "quantity": 8, "action": "Dead Drop"},
-      {"name": "Skeleton Key", "quantity": 1, "action": "Dead Drop"}
-    ],
-    "group": "Equipment",
-    "reward": "Start with 3 plates"
-  },
-  {
-    "name": "Increased Starting Armor 2",
-    "requiredItems": [
-      {"name": "NVGs", "quantity": 5},
-      {"name": "Killstreaks", "quantity": 10, "action": "Dead Drop"}
-    ],
-    "group": "Equipment",
-    "reward": "Start with 4 plates"
-  },
-  {
-    "name": "Increased Starting Armor 3",
-    "requiredItems": [
-      {"name": "Lucky Cat Statues", "quantity": 5},
-      {"name": "Heart Lockets", "quantity": 5},
-      {"name": "Vials of Insulin", "quantity": 5},
-      {"name": "Small Dolls", "quantity": 5},
-      {"name": "Dog Bank Statues", "quantity": 5}
-    ],
-    "group": "Equipment",
-    "reward": "Start with 5 plates"
-  },
-  {
-    "name": "Unlock Rebreather",
-    "requiredItems": [
-      {"name": "Gun Oil", "quantity": 8},
-      {"name": "Lightbulbs", "quantity": 8},
-      {"name": "Electrical Tape", "quantity": 15},
-      {"name": "Rebreathers", "quantity": 12},
-      {"name": "Blow Torches", "quantity": 5},
-      {"name": "GPU", "quantity": 1}
-    ],
-    "group": "Equipment",
-    "reward": "Rebreather"
-  },
-  {
-    "name": "Unlock Armor Box",
-    "requiredItems": [
-      {"name": "Armor Boxes", "quantity": 8},
-      {"name": "Screwdrivers", "quantity": 8},
-      {"name": "Drills", "quantity": 4},
-      {"name": "Batteries", "quantity": 8},
-      {"name": "Electrical Components", "quantity": 16},
-      {"name": "Plastic Explosive Bricks", "quantity": 5}
-    ],
-    "group": "Equipment",
-    "reward": "Armor Box"
-  },
-  {
-    "name": "Starting Solo Self Revive",
-    "requiredItems": [
-      {"name": "Self Revives", "quantity": 40, "action": "Dead Drop"}
-    ],
-    "group": "Equipment",
-    "reward": "Solo Self Revive"
-  },
-  {
-    "name": "Comms Plate Carrier Barter",
-    "requiredItems": [
-      {"name": "Kill the Wheelson", "quantity": 1, "location": "Ashika Island", "action": "Kill"}
-    ],
-    "group": "Barter",
-    "reward": "Comms Plate Carrier"
-  },
-  {
-    "name": "Tempered Plate Carrier Barter",
-    "requiredItems": [
-      {"name": "Kill the Armored Commander", "quantity": 1, "location": "Al Mazrah", "action": "Kill"}
-    ],
-    "group": "Barter",
-    "reward": "Tempered Plate Carrier"
-  },
-  {
-    "name": "Medic Plate Carrier Barter",
-    "requiredItems": [
-      {"name": "Kill the Pyro", "quantity": 1, "location": "Al Mazrah", "action": "Kill"}
-    ],
-    "group": "Barter",
-    "reward": "Medic Plate Carrier"
-  },
-  {
-    "name": "Stealth Plate Carrier Barter",
-    "requiredItems": [
-      {"name": "Kill the Sniper", "quantity": 1, "location": "Koschei Complex", "action": "Kill"}
-    ],
-    "group": "Barter",
-    "reward": "Stealth Plate Carrier"
-  },
-  {
-    "name": "Scavenger Backpack Barter",
-    "requiredItems": [
-      {"name": "Kill the Scavenger", "quantity": 1, "location": "AM, Ashika, Vondel", "action": "Kill"}
-    ],
-    "group": "Barter",
-    "reward": "Scavenger Backpack"
-  },
-  {
-    "name": "Secure Backpack Barter",
-    "requiredItems": [
-      {"name": "Kill the Scavenger", "quantity": 9, "location": "AM, Ashika, Vondel", "action": "Kill"}
-    ],
-    "group": "Barter",
-    "reward": "Secure Backpack"
-  },
-  {
-    "name": "Personal Exfils",
-    "requiredItems": [
-      {"name": "Kill the Helo Commander", "quantity": 1, "location": "AM, Ashika, Vondel", "action": "Kill"}
-    ],
-    "group": "Personal Exfil",
-    "reward": "Personal Exfils"
-  },
-  {
-    "name": "Revive Pistol Barter",
-    "requiredItems": [
-      {"name": "Kill the Chemist", "quantity": 1, "location": "Al Mazrah", "action": "Kill"}
-    ],
-    "group": "Barter",
-    "reward": "Revive Pistol"
-  },
-  {
-    "name": "Skeleton Key Barter",
-    "requiredItems": [
-      {"name": "Kill the Velikan", "quantity": 1, "location": "Building 21", "action": "Kill"}
-    ],
-    "group": "Barter",
-    "reward": "Skeleton Key"
-  },
-  {
-    "name": "MK32 Barter",
-    "requiredItems": [
-      {"name": "Kill the Velikan", "quantity": 9, "location": "Building 21", "action": "Kill"}
-    ],
-    "group": "Barter",
-    "reward": "MK32 Launcher"
-  },
-  {
-    "name": "Killstreak Discount 1",
-    "requiredItems": [
-      {"name": "Kill the Bomb Maker", "quantity": 1, "location": "Ashika Island", "action": "Kill"}
-    ],
-    "group": "Killstreaks",
-    "reward": "10% Reduced Cost of Killstreaks"
-  },
-  {
-    "name": "Killstreak Discount 2",
-    "requiredItems": [
-      {"name": "Kill the Bomb Maker", "quantity": 4, "location": "Ashika Island", "action": "Kill"}
-    ],
-    "group": "Killstreaks",
-    "reward": "20% Reduced Cost of Killstreaks"
-  },
-  {
-    "name": "Killstreak Discount 3",
-    "requiredItems": [
-      {"name": "Kill the Bomb Maker", "quantity": 6, "location": "Ashika Island", "action": "Kill"}
-    ],
-    "group": "Killstreaks",
-    "reward": "25% Reduced Cost of Killstreaks"
-  },
-  {
-    "name": "Personal Exfil Discount 1",
-    "requiredItems": [
-      {
-        "name": "Kill the Helo Commander",
-        "quantity": 4,
-        "location": "AM, Ashika, Vondel",
-        "action": "Kill"
-      }
-    ],
-    "group": "Personal Exfil",
-    "reward": "10% Reduced Cost of Personal Exfil"
-  },
-  {
-    "name": "Personal Exfil Discount 2",
-    "requiredItems": [
-      {
-        "name": "Kill the Helo Commander",
-        "quantity": 5,
-        "location": "AM, Ashika, Vondel",
-        "action": "Kill"
-      }
-    ],
-    "group": "Personal Exfil",
-    "reward": "20% Reduced Cost of Personal Exfil"
-  },
-  {
-    "name": "Personal Exfil Discount 3",
-    "requiredItems": [
-      {
-        "name": "Kill the Helo Commander",
-        "quantity": 10,
-        "location": "AM, Ashika, Vondel",
-        "action": "Kill"
-      }
-    ],
-    "group": "Personal Exfil",
-    "reward": "25% Reduced Cost of Personal Exfil"
-  },
-  {
-    "name": "Armor Plate Discount 1",
-    "requiredItems": [
-      {
-        "name": "Kill the Pyro",
-        "quantity": 4,
-        "location": "Al Mazrah",
-        "action": "Kill"
-      }
-    ],
-    "group": "Armor Discount",
-    "reward": "Armor Plates are $50 Cheaper"
-  },
-  {
-    "name": "Armor Plate Discount 2",
-    "requiredItems": [
-      {
-        "name": "Kill the Pyro",
-        "quantity": 6,
-        "location": "Al Mazrah",
-        "action": "Kill"
-      }
-    ],
-    "group": "Armor Discount",
-    "reward": "Armor Plates are $100 Cheaper"
-  },
-  {
-    "name": "Armor Plate Discount 3",
-    "requiredItems": [
-      {
-        "name": "Kill the Pyro",
-        "quantity": 10,
-        "location": "Al Mazrah",
-        "action": "Kill"
-      }
-    ],
-    "group": "Armor Discount",
-    "reward": "Armor Plates are $150 Cheaper"
-  },
-  {
-    "name": "Workbench Discount 1",
-    "requiredItems": [
-      {
-        "name": "Kill Sniper or Rhino",
-        "quantity": 4,
-        "location": "Koschei Complex",
-        "action": "Kill"
-      }
-    ],
-    "group": "Workbench",
-    "reward": "10% Workbench Discount"
-  },
-  {
-    "name": "Workbench Discount 2",
-    "requiredItems": [
-      {
-        "name": "Kill Sniper or Rhino",
-        "quantity": 10,
-        "location": "Koschei Complex",
-        "action": "Kill"
-      }
-    ],
-    "group": "Workbench",
-    "reward": "20% Workbench Discount"
-  },
-  {
-    "name": "Workbench Discount 3",
-    "requiredItems": [
-      {
-        "name": "Kill Sniper or Rhino",
-        "quantity": 20,
-        "location": "Koschei Complex",
-        "action": "Kill"
-      }
-    ],
-    "group": "Workbench",
-    "reward": "25% Workbench Discount"
-  },
-  {
-    "name": "Black Mous Daily Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Extract with a full Large backpack",
-        "quantity": 1
-      }
-    ],
-    "group": "Daily Missions",
-    "reward": "Black Mous Daily Urgent Missions"
-  },
-  {
-    "name": "White Lotus Daily Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Al Qatala Planning Diagrams or Images",
-        "quantity": 2
-      }
-    ],
-    "group": "Daily Missions",
-    "reward": "White Lotus Daily Urgent Missions"
-  },
-  {
-    "name": "Phalanx Daily Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Hydrogen Peroxide, Cephalexin, or Acetone",
-        "quantity": 3
-      }
-    ],
-    "group": "Daily Missions",
-    "reward": "Phalanx Daily Urgent Missions"
-  },
-  {
-    "name": "Crown Daily Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Classified Documents",
-        "quantity": 3
-      }
-    ],
-    "group": "Daily Missions",
-    "reward": "Crown Daily Urgent Missions"
-  },
-  {
-    "name": "Shadow Company Daily Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Keys",
-        "quantity": 10,
-        "action": "Dead Drop"
-      }
-    ],
-    "group": "Daily Missions",
-    "reward": "Shadow Company Daily Urgent Missions"
-  },
-  {
-    "name": "Black Mous Weekly Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Scavenger Calling Cards",
-        "quantity": 12
-      }
-    ],
-    "group": "Weekly Missions",
-    "reward": "Black Mous Weekly Urgent Missions"
-  },
-  {
-    "name": "White Lotus Weekly Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Liquid Nitrogen",
-        "quantity": 10
-      }
-    ],
-    "group": "Weekly Missions",
-    "reward": "White Lotus Weekly Urgent Missions"
-  },
-  {
-    "name": "Crown Weekly Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Heavy Chopper Fuel",
-        "quantity": 10
-      }
-    ],
-    "group": "Weekly Missions",
-    "reward": "Crown Weekly Urgent Missions"
-  },
-  {
-    "name": "Phalanx Weekly Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Origami Horses",
-        "quantity": 5
-      }
-    ],
-    "group": "Weekly Missions",
-    "reward": "Phalanx Weekly Urgent Missions"
-  },
-  {
-    "name": "Shadow Company Weekly Urgent Missions",
-    "requiredItems": [
-      {
-        "name": "Encrypted Hard Drives",
-        "quantity": 10,
-        "location": "Building 21"
-      }
-    ],
-    "group": "Weekly Missions",
-    "reward": "Shadow Company Weekly Urgent Missions"
-  },
-  {
-    "name": "Increased Contract Payment 1",
-    "requiredItems": [
-      {
-        "name": "Complete Contracts",
-        "quantity": 100,
-        "action": "Contracts"
-      }
-    ],
-    "group": "Contracts",
-    "reward": "10% Contract Payment Increase"
-  },
-  {
-    "name": "Increased Contract Payment 2",
-    "requiredItems": [
-      {
-        "name": "Complete Contracts",
-        "quantity": 200,
-        "action": "Contracts"
-      }
-    ],
-    "group": "Contracts",
-    "reward": "10% Contract Payment Increase"
-  },
-  {
-    "name": "Increased Contract Payment 3",
-    "requiredItems": [
-      {
-        "name": "Complete Contracts",
-        "quantity": 300,
-        "action": "Contracts"
-      }
-    ],
-    "group": "Contracts",
-    "reward": "5% Contract Payment Increase"
-  },
-  {
-    "name": "Increased Commander Intel",
-    "requiredItems": [
-      {
-        "name": "Laptops",
-        "quantity": 15
-      },
-      {
-        "name": "Encrypted Thumb Drives",
-        "quantity": 6
-      },
-      {
-        "name": "Encrypted Hard Drives",
-        "quantity": 3
-      }
-    ],
-    "group": "Intel",
-    "reward": "2nd Marked Commander from Intel"
-  },
-  {
-    "name": "Increased Safe Intel",
-    "requiredItems": [
-      {
-        "name": "Plastic Explosives",
-        "quantity": 6
-      },
-      {
-        "name": "VCRs",
-        "quantity": 5
-      },
-      {
-        "name": "Electrical Components",
-        "quantity": 20
-      }
-    ],
-    "group": "Intel",
-    "reward": "1 extra safe from Destroy Supplies"
-  },
-  {
-    "name": "Increased Safe Contents",
-    "requiredItems": [
-      {
-        "name": "$1M Cash",
-        "quantity": 1,
-        "action": "Dead Drop"
-      },
-      {
-        "name": "Sensitive or Classified Documents",
-        "quantity": 8
-      }
-    ],
-    "group": "Caches",
-    "reward": "Safes hold more items"
-  },
-  {
-    "name": "Increased Supply Cache Contents",
-    "requiredItems": [
-      {
-        "name": "Armor Plate Carriers",
-        "quantity": 10,
-        "action": "Dead Drop"
-      },
-      {
-        "name": "3-Plate Carriers",
-        "quantity": 6,
-        "action": "Dead Drop"
-      },
-      {
-        "name": "Self Revives",
-        "quantity": 6,
-        "action": "Dead Drop"
-      }
-    ],
-    "group": "Caches",
-    "reward": "Supply caches hold more items"
-  },
-  {
-    "name": "Increased UAV Tower Duration 1",
-    "requiredItems": [
-      {
-        "name": "Drills",
-        "quantity": 4
-      },
-      {
-        "name": "Screwdrivers",
-        "quantity": 5
-      },
-      {
-        "name": "Wrenches",
-        "quantity": 3
-      },
-      {
-        "name": "Hard Drives",
-        "quantity": 4
-      },
-      {
-        "name": "Electrical Tape",
-        "quantity": 3
-      },
-      {
-        "name": "Batteries",
-        "quantity": 3
-      }
-    ],
-    "group": "UAV",
-    "reward": "30 second UAV Tower increase"
-  },
-  {
-    "name": "Increased UAV Tower Duration 2",
-    "requiredItems": [
-      {
-        "name": "Vintage Wine",
-        "quantity": 4
-      },
-      {
-        "name": "Soothing Hand Cream",
-        "quantity": 10
-      },
-      {
-        "name": "Cigar Boxes",
-        "quantity": 10,
-        "location": "Ashika Island"
-      },
-      {
-        "name": "Lighters",
-        "quantity": 10
-      }
-    ],
-    "group": "UAV",
-    "reward": "30 second UAV Tower increase"
-  },
-  {
-    "name": "Increased UAV Tower Duration 3",
-    "requiredItems": [
-      {
-        "name": "Encrypted Hard Drives",
-        "quantity": 9,
-        "location": "Vondel"
-      },
-      {
-        "name": "Formaldehyde",
-        "quantity": 5
-      },
-      {
-        "name": "Cephalexin",
-        "quantity": 10
-      },
-      {
-        "name": "Large Medical Bags",
-        "quantity": 10
-      }
-    ],
-    "group": "UAV",
-    "reward": "30 second UAV Tower increase"
-  },
-  {
-    "name": "Increased SAM Site Duration 1",
-    "requiredItems": [
-      {
-        "name": "Water Bottles",
-        "quantity": 15
-      },
-      {
-        "name": "Ashika Liquor",
-        "quantity": 10,
-        "location": "Ashika Island"
-      },
-      {
-        "name": "Aged or Vintage Wine",
-        "quantity": 8
-      }
-    ],
-    "group": "Sam Site",
-    "reward": "30 second SAM Site increase"
-  },
-  {
-    "name": "Increased SAM Site Duration 2",
-    "requiredItems": [
-      {
-        "name": "VCRs",
-        "quantity": 6
-      },
-      {
-        "name": "Laptops",
-        "quantity": 8,
-        "location": "Ashika Island"
-      },
-      {
-        "name": "Game Consoles",
-        "quantity": 5
-      },
-      {
-        "name": "GPU",
-        "quantity": 1
-      }
-    ],
-    "group": "Sam Site",
-    "reward": "30 second SAM Site increase"
-  },
-  {
-    "name": "Increased SAM Site Duration 3",
-    "requiredItems": [
-      {
-        "name": "Acetone",
-        "quantity": 7
-      },
-      {
-        "name": "Radiation Blockers",
-        "quantity": 33
-      },
-      {
-        "name": "Gun Oil",
-        "quantity": 12
-      },
-      {
-        "name": "Toothpaste",
-        "quantity": 16
-      }
-    ],
-    "group": "Sam Site",
-    "reward": "30 second SAM Site increase"
-  },
-  {
-    "name": "Increased Exfil Chopper Speed",
-    "requiredItems": [
-      {
-        "name": "Extract $100k on Final Exfils",
-        "quantity": 10
-      }
-    ],
-    "group": "Exfil Chopper",
-    "reward": "Exfil Chopper Arrives Faster"
-  }
+    {
+        "uid": "001",
+        "name": "Unlock Wallet",
+        "requiredItems": [
+            {
+                "name": "100k Cash",
+                "quantity": 1,
+                "location": "All Maps",
+                "action": "Exfil"
+            }
+        ],
+        "group": "Wallet",
+        "reward": "Wallet"
+    },
+    {
+        "uid": "002",
+        "name": "Wallet Expansion 1",
+        "requiredItems": [
+            {
+                "name": "Liquor",
+                "quantity": 10,
+                "location": "All Maps",
+                "action": "Exfil"
+            },
+            {
+                "name": "Aged or Vintage Wine",
+                "quantity": 2,
+                "location": "All Maps",
+                "action": "Exfil"
+            },
+            {
+                "name": "Wine",
+                "quantity": 6,
+                "location": "All Maps",
+                "action": "Exfil"
+            }
+        ],
+        "group": "Wallet",
+        "reward": "$150k wallet capacity increase"
+    },
+    {
+        "uid": "003",
+        "name": "Wallet Expansion 2",
+        "requiredItems": [
+            {
+                "name": "Thumb Drives",
+                "quantity": 4,
+                "location": "All Maps",
+                "action": "Exfil"
+            },
+            {
+                "name": "Encrypted Hard Drives",
+                "quantity": 2,
+                "location": "All Maps",
+                "action": "Exfil"
+            },
+            {
+                "name": "Laptops",
+                "quantity": 4,
+                "location": "All Maps",
+                "action": "Exfil"
+            },
+            {
+                "name": "Hard Drives",
+                "quantity": 8,
+                "location": "All Maps",
+                "action": "Exfil"
+            }
+        ],
+        "group": "Wallet",
+        "reward": "$150k wallet capacity increase"
+    },
+    {
+        "uid": "004",
+        "name": "Wallet Expansion 3",
+        "requiredItems": [
+            { "name": "GPUs", "quantity": 3 }
+        ],
+        "group": "Wallet",
+        "reward": "$100k wallet capacity increase"
+    },
+    {
+        "uid": "005",
+        "name": "Wallet Expansion 4",
+        "requiredItems": [
+            { "name": "Vintage Wine", "quantity": 6 },
+            { "name": "Japanese Liquor", "quantity": 16, "location": "Ashika Island" }
+        ],
+        "group": "Wallet",
+        "reward": "$100k wallet capacity increase"
+    },
+    {
+        "uid": "006",
+        "name": "Wallet Expansion 5",
+        "requiredItems": [
+            { "name": "Gold Bars", "quantity": 10 },
+            { "name": "Gold Skulls", "quantity": 6 }
+        ],
+        "group": "Wallet",
+        "reward": "$100k wallet capacity increase"
+    },
+    {
+        "uid": "007",
+        "name": "Wallet Expansion 1 (Crown)",
+        "requiredItems": [
+            { "name": "Gun Oil", "quantity": 3 },
+            { "name": "Electric Drills", "quantity": 2 },
+            { "name": "Batteries", "quantity": 5 }
+        ],
+        "group": "Wallet",
+        "reward": "$100k wallet capacity increase"
+    },
+    {
+        "uid": "008",
+        "name": "Wallet Expansion 2 (Crown)",
+        "requiredItems": [
+            { "name": "Electrical Tape", "quantity": 8 },
+            { "name": "Jumper Cables", "quantity": 6 },
+            { "name": "Car Batteries", "quantity": 3 }
+        ],
+        "group": "Wallet",
+        "reward": "$50k wallet capacity increase"
+    },
+    {
+        "uid": "009",
+        "name": "Wallet Expansion 3 (Crown)",
+        "requiredItems": [
+            { "name": "Screwdrivers", "quantity": 10 },
+            { "name": "Encrypted Hard Drives", "quantity": 4 },
+            { "name": "$500k Cash", "quantity": 1 },
+            { "name": "AQ Laptops", "quantity": 5 }
+        ],
+        "group": "Wallet",
+        "reward": "$50k wallet capacity increase"
+    },
+    {
+        "uid": "010",
+        "name": "Wallet Expansion 4 (Crown)",
+        "requiredItems": [
+            { "name": "VCRs", "quantity": 10 },
+            { "name": "GPUs", "quantity": 4 },
+            { "name": "Encrypted USB Sticks", "quantity": 6 },
+            { "name": "Game Consoles", "quantity": 10 }
+        ],
+        "group": "Wallet",
+        "reward": "$50k wallet capacity increase"
+    },
+    {
+        "uid": "011",
+        "name": "Wallet Expansion 5 (Crown)",
+        "requiredItems": [
+            { "name": "Lighters", "quantity": 30 },
+            { "name": "Electrical Components", "quantity": 40 },
+            { "name": "Ashika Old Film Canisters", "quantity": 20, "location": "Ashika Island" }
+        ],
+        "group": "Wallet",
+        "reward": "$50k wallet capacity increase"
+    },
+    {
+        "uid": "012",
+        "name": "Stash Expansion 1",
+        "requiredItems": [
+            { "name": "Nuclear Fuel Rods", "quantity": 10 },
+            { "name": "Radiation Blockers", "quantity": 2 }
+        ],
+        "group": "Stash",
+        "reward": "5 Stash Slots"
+    },
+    {
+        "uid": "013",
+        "name": "Stash Expansion 2",
+        "requiredItems": [
+            { "name": "Comic Books", "quantity": 5 },
+            { "name": "Cigar Boxes", "quantity": 9, "location": "Ashika Island" },
+            { "name": "Asprin", "quantity": 3 }
+        ],
+        "group": "Stash",
+        "reward": "5 Stash Slots"
+    },
+    {
+        "uid": "014",
+        "name": "Stash Expansion 3",
+        "requiredItems": [
+            { "name": "IFAKs", "quantity": 15 },
+            { "name": "AFAKs", "quantity": 10 },
+            { "name": "Large Medical Bags", "quantity": 5 }
+        ],
+        "group": "Stash",
+        "reward": "4 Stash Slots"
+    },
+    {
+        "uid": "015",
+        "name": "Stash Expansion 4",
+        "requiredItems": [
+            { "name": "MK32 Launcher", "quantity": 1 },
+            { "name": "Wrenches", "quantity": 5 },
+            { "name": "Dog Tags", "quantity": 3 },
+            { "name": "Screwdrivers", "quantity": 5 }
+        ],
+        "group": "Stash",
+        "reward": "3 Stash Slots"
+    },
+    {
+        "uid": "090",
+        "name": "Stash Expansion 5",
+        "requiredItems": [
+            { "name": "Classified Documents", "quantity": 8 },
+            { "name": "Documents", "quantity": 40 },
+            { "name": "Sensitive Documents", "quantity": 16 }
+        ],
+        "group": "Stash",
+        "reward": "3 Stash Slots"
+    },
+    {
+        "uid": "016",
+        "name": "Stash Expansion 1 (Crown)",
+        "requiredItems": [
+            { "name": "Bandages", "quantity": 8 },
+            { "name": "IFAKs", "quantity": 4 },
+            { "name": "Radiation Blockers", "quantity": 1 }
+        ],
+        "group": "Stash",
+        "reward": "3 Stash Slots"
+    },
+    {
+        "uid": "017",
+        "name": "Stash Expansion 2 (Crown)",
+        "requiredItems": [
+            { "name": "Vases", "quantity": 6, "location": "Ashika Island" },
+            { "name": "Japanese Liquor", "quantity": 3, "location": "Ashika Island" }
+        ],
+        "group": "Stash",
+        "reward": "3 Stash Slots"
+    },
+    {
+        "uid": "018",
+        "name": "Stash Expansion 3 (Crown)",
+        "requiredItems": [
+            { "name": "Food Rations", "quantity": 7 },
+            { "name": "Water Bottles", "quantity": 8 },
+            { "name": "Gas Cans", "quantity": 3 },
+            { "name": "Cans of Food", "quantity": 8 }
+        ],
+        "group": "Stash",
+        "reward": "2 Stash Slots"
+    },
+    {
+        "uid": "019",
+        "name": "Stash Expansion 4 (Crown)",
+        "requiredItems": [
+            { "name": "Large Medical Bags", "quantity": 8 },
+            { "name": "Asprin", "quantity": 8 }
+        ],
+        "group": "Stash",
+        "reward": "1 Stash Slots"
+    },
+    {
+        "uid": "020",
+        "name": "Stash Expansion 5 (Crown)",
+        "requiredItems": [
+            { "name": "Gun Oil", "quantity": 7 },
+            { "name": "Blow Torches", "quantity": 10 },
+            { "name": "Liquid Nitrogen", "quantity": 2 },
+            { "name": "Nuclear Fuel Rods", "quantity": 14 }
+        ],
+        "group": "Stash",
+        "reward": "1 Stash Slots"
+    },
+    {
+        "uid": "089",
+        "name": "Unlock 2nd Insured Slot",
+        "requiredItems": [
+            { "name": "AFAK or Large Medical Bag", "quantity": 1 },
+            { "name": "IFAKs", "quantity": 3 },
+            { "name": "Enemy Operator Weapon", "quantity": 1 }
+        ],
+        "group": "Insurance",
+        "reward": "2nd insurance weapon"
+    },
+    {
+        "uid": "021",
+        "name": "Unlock 3rd Insured Slot",
+        "requiredItems": [
+            { "name": "GPUs", "quantity": 5 },
+            { "name": "Enemy Operator Weapons", "quantity": 10 },
+            { "name": "Gold Bars", "quantity": 10 },
+            { "name": "Gold Skulls", "quantity": 8 }
+        ],
+        "group": "Insurance",
+        "reward": "3rd Insurance Weapon"
+    },
+    {
+        "uid": "022",
+        "name": "1st Insured Slot Cooldown 1",
+        "requiredItems": [
+            { "name": "Classified Documents", "quantity": 3 },
+            { "name": "400k Cash", "quantity": 1 },
+            { "name": "Gun Oil", "quantity": 4 }
+        ],
+        "group": "Insurance",
+        "reward": "25% cooldown reduction"
+    },
+    {
+        "uid": "023",
+        "name": "1st Insured Slot Cooldown 2",
+        "requiredItems": [
+            { "name": "Lightbulbs", "quantity": 7 },
+            { "name": "Enemy Operator Weapons", "quantity": 5 },
+            { "name": "Toothpaste", "quantity": 12 },
+            { "name": "Water Bottles", "quantity": 15 }
+        ],
+        "group": "Insurance",
+        "reward": "25% cooldown reduction"
+    },
+    {
+        "uid": "024",
+        "name": "2nd Insured Slot Cooldown 1",
+        "requiredItems": [
+            { "name": "Imported Tea", "quantity": 8 },
+            { "name": "Aged or Vintage Wine", "quantity": 4 },
+            { "name": "Soothing Hand Cream", "quantity": 8 }
+        ],
+        "group": "Insurance",
+        "reward": "25% cooldown reduction"
+    },
+    {
+        "uid": "025",
+        "name": "2nd Insured Slot Cooldown 2",
+        "requiredItems": [
+            { "name": "Hydrochloride", "quantity": 4 },
+            { "name": "Acetone", "quantity": 4 },
+            { "name": "Cephalexin", "quantity": 4 },
+            { "name": "Chlorine", "quantity": 4 },
+            { "name": "Hydrogen Peroxide", "quantity": 4 },
+            { "name": "Formaldehyde", "quantity": 4 }
+        ],
+        "group": "Insurance",
+        "reward": "25% cooldown reduction"
+    },
+    {
+        "uid": "026",
+        "name": "3rd Insured Slot Cooldown 1",
+        "requiredItems": [
+            { "name": "Lighters", "quantity": 20 },
+            { "name": "Cigar Boxes", "quantity": 35 }
+        ],
+        "group": "Insurance",
+        "reward": "25% cooldown reduction"
+    },
+    {
+        "uid": "027",
+        "name": "Contraband Expansion 1",
+        "requiredItems": [
+            { "name": "Hard Drives", "quantity": 5 },
+            { "name": "Thumb Drives", "quantity": 4 }
+        ],
+        "group": "Contraband",
+        "reward": "5 Contraband Slots"
+    },
+    {
+        "uid": "028",
+        "name": "Contraband Expansion 2",
+        "requiredItems": [
+            { "name": "Black Mous Intel", "quantity": 5, "location": "Al Mazrah - Rohal Oil" },
+            { "name": "Dog Tags", "quantity": 4 }
+        ],
+        "group": "Contraband",
+        "reward": "5 Contraband Slots"
+    },
+    {
+        "uid": "029",
+        "name": "Contraband Expansion 3",
+        "requiredItems": [
+            { "name": "Original Ashika Island Mask", "quantity": 1, "location": "Ashika Island" },
+            { "name": "Ashika Island Masks", "quantity": 6, "location": "Ashika Island" }
+        ],
+        "group": "Contraband",
+        "reward": "4 Contraband Slots"
+    },
+    {
+        "uid": "030",
+        "name": "Contraband Expansion 4",
+        "requiredItems": [
+            { "name": "Armor Plate Boxes", "quantity": 3 },
+            { "name": "Armor Plates", "quantity": 15 },
+            { "name": "Three-Plate Vests", "quantity": 5 }
+        ],
+        "group": "Contraband",
+        "reward": "3 Contraband Slots"
+    },
+    {
+        "uid": "031",
+        "name": "Contraband Expansion 5",
+        "requiredItems": [
+            { "name": "UAV or AUAV", "quantity": 10 },
+            { "name": "Encrypted Hard Drives", "quantity": 20 },
+            { "name": "Anti-Armor Round Boxes", "quantity": 12 }
+        ],
+        "group": "Contraband",
+        "reward": "3 Contraband Slots"
+    },
+    {
+        "uid": "032",
+        "name": "Contraband Expansion 1 (Crown)",
+        "requiredItems": [
+            {"name": "Stims", "quantity": 9},
+            {"name": "Bandages", "quantity": 6}
+        ],
+        "group": "Contraband",
+        "reward": "3 Contraband Slots"
+    },
+    {
+        "uid": "033",
+        "name": "Contraband Expansion 2 (Crown)",
+        "requiredItems": [
+            {"name": "Lighters, Comics, Cigar Boxes, or Documents", "quantity": 15},
+            {"name": "Gas Cans", "quantity": 5}
+        ],
+        "group": "Contraband",
+        "reward": "3 Contraband Slots"
+    },
+    {
+        "uid": "034",
+        "name": "Contraband Expansion 3 (Crown)",
+        "requiredItems": [
+            {"name": "Blow Torches", "quantity": 16},
+            {"name": "Car Batteries", "quantity": 8},
+            {"name": "Jumper Cables", "quantity": 12}
+        ],
+        "group": "Contraband",
+        "reward": "3 Contraband Slots"
+    },
+    {
+        "uid": "035",
+        "name": "Contraband Expansion 4 (Crown)",
+        "requiredItems": [
+            {"name": "800 Sniper Ammo", "quantity": 1},
+            {"name": "1200 Shotgun Ammo", "quantity": 1},
+            {"name": "120 Launcher Ammo", "quantity": 1},
+            {"name": "3500 Pistol/SMG Ammo", "quantity": 1},
+            {"name": "6500 AR/LMG Ammo", "quantity": 1}
+        ],
+        "group": "Contraband",
+        "reward": "3 Contraband Slots"
+    },
+    {
+        "uid": "036",
+        "name": "Contraband Expansion 5 (Crown)",
+        "requiredItems": [
+            {"name": "Gas Masks", "quantity": 30},
+            {"name": "Durable Gas Masks", "quantity": 10},
+            {"name": "Radiation Blockers", "quantity": 15}
+        ],
+        "group": "Contraband",
+        "reward": "3 Contraband Slots"
+    },
+    {
+        "uid": "037",
+        "name": "Increased Starting Armor 1",
+        "requiredItems": [
+            {"name": "Stronghold Keycards", "quantity": 8, "action": "Dead Drop"},
+            {"name": "Skeleton Key", "quantity": 1, "action": "Dead Drop"}
+        ],
+        "group": "Equipment",
+        "reward": "Start with 3 plates"
+    },
+    {
+        "uid": "038",
+        "name": "Increased Starting Armor 2",
+        "requiredItems": [
+            {"name": "NVGs", "quantity": 5},
+            {"name": "Killstreaks", "quantity": 10, "action": "Dead Drop"}
+        ],
+        "group": "Equipment",
+        "reward": "Start with 4 plates"
+    },
+    {
+        "uid": "039",
+        "name": "Increased Starting Armor 3",
+        "requiredItems": [
+            {"name": "Lucky Cat Statues", "quantity": 5},
+            {"name": "Heart Lockets", "quantity": 5},
+            {"name": "Vials of Insulin", "quantity": 5},
+            {"name": "Small Dolls", "quantity": 5},
+            {"name": "Dog Bank Statues", "quantity": 5}
+        ],
+        "group": "Equipment",
+        "reward": "Start with 5 plates"
+    },
+    {
+        "uid": "040",
+        "name": "Unlock Rebreather",
+        "requiredItems": [
+            {"name": "Gun Oil", "quantity": 8},
+            {"name": "Lightbulbs", "quantity": 8},
+            {"name": "Electrical Tape", "quantity": 15},
+            {"name": "Rebreathers", "quantity": 12},
+            {"name": "Blow Torches", "quantity": 5},
+            {"name": "GPU", "quantity": 1}
+        ],
+        "group": "Equipment",
+        "reward": "Rebreather"
+    },
+    {
+        "uid": "041",
+        "name": "Unlock Armor Box",
+        "requiredItems": [
+            {"name": "Armor Boxes", "quantity": 8},
+            {"name": "Screwdrivers", "quantity": 8},
+            {"name": "Drills", "quantity": 4},
+            {"name": "Batteries", "quantity": 8},
+            {"name": "Electrical Components", "quantity": 16},
+            {"name": "Plastic Explosive Bricks", "quantity": 5}
+        ],
+        "group": "Equipment",
+        "reward": "Armor Box"
+    },
+    {
+        "uid": "042",
+        "name": "Starting Solo Self Revive",
+        "requiredItems": [
+            {"name": "Self Revives", "quantity": 40, "action": "Dead Drop"}
+        ],
+        "group": "Equipment",
+        "reward": "Solo Self Revive"
+    },
+    {
+        "uid": "043",
+        "name": "Comms Plate Carrier Barter",
+        "requiredItems": [
+            {"name": "Kill the Wheelson", "quantity": 1, "location": "Ashika Island", "action": "Kill"}
+        ],
+        "group": "Barter",
+        "reward": "Comms Plate Carrier"
+    },
+    {
+        "uid": "044",
+        "name": "Tempered Plate Carrier Barter",
+        "requiredItems": [
+            {"name": "Kill the Armored Commander", "quantity": 1, "location": "Al Mazrah", "action": "Kill"}
+        ],
+        "group": "Barter",
+        "reward": "Tempered Plate Carrier"
+    },
+    {
+        "uid": "045",
+        "name": "Medic Plate Carrier Barter",
+        "requiredItems": [
+            {"name": "Kill the Pyro", "quantity": 1, "location": "Al Mazrah", "action": "Kill"}
+        ],
+        "group": "Barter",
+        "reward": "Medic Plate Carrier"
+    },
+    {
+        "uid": "046",
+        "name": "Stealth Plate Carrier Barter",
+        "requiredItems": [
+            {"name": "Kill the Sniper", "quantity": 1, "location": "Koschei Complex", "action": "Kill"}
+        ],
+        "group": "Barter",
+        "reward": "Stealth Plate Carrier"
+    },
+    {
+        "uid": "047",
+        "name": "Scavenger Backpack Barter",
+        "requiredItems": [
+            {"name": "Kill the Scavenger", "quantity": 1, "location": "AM, Ashika, Vondel", "action": "Kill"}
+        ],
+        "group": "Barter",
+        "reward": "Scavenger Backpack"
+    },
+    {
+        "uid": "048",
+        "name": "Secure Backpack Barter",
+        "requiredItems": [
+            {"name": "Kill the Scavenger", "quantity": 9, "location": "AM, Ashika, Vondel", "action": "Kill"}
+        ],
+        "group": "Barter",
+        "reward": "Secure Backpack"
+    },
+    {
+        "uid": "049",
+        "name": "Personal Exfils",
+        "requiredItems": [
+            {"name": "Kill the Helo Commander", "quantity": 1, "location": "AM, Ashika, Vondel", "action": "Kill"}
+        ],
+        "group": "Personal Exfil",
+        "reward": "Personal Exfils"
+    },
+    {
+        "uid": "050",
+        "name": "Revive Pistol Barter",
+        "requiredItems": [
+            {"name": "Kill the Chemist", "quantity": 1, "location": "Al Mazrah", "action": "Kill"}
+        ],
+        "group": "Barter",
+        "reward": "Revive Pistol"
+    },
+    {
+        "uid": "051",
+        "name": "Skeleton Key Barter",
+        "requiredItems": [
+            {"name": "Kill the Velikan", "quantity": 1, "location": "Building 21", "action": "Kill"}
+        ],
+        "group": "Barter",
+        "reward": "Skeleton Key"
+    },
+    {
+        "uid": "052",
+        "name": "MK32 Barter",
+        "requiredItems": [
+            {"name": "Kill the Velikan", "quantity": 9, "location": "Building 21", "action": "Kill"}
+        ],
+        "group": "Barter",
+        "reward": "MK32 Launcher"
+    },
+    {
+        "uid": "053",
+        "name": "Killstreak Discount 1",
+        "requiredItems": [
+            {"name": "Kill the Bomb Maker", "quantity": 1, "location": "Ashika Island", "action": "Kill"}
+        ],
+        "group": "Killstreaks",
+        "reward": "10% Reduced Cost of Killstreaks"
+    },
+    {
+        "uid": "054",
+        "name": "Killstreak Discount 2",
+        "requiredItems": [
+            {"name": "Kill the Bomb Maker", "quantity": 4, "location": "Ashika Island", "action": "Kill"}
+        ],
+        "group": "Killstreaks",
+        "reward": "20% Reduced Cost of Killstreaks"
+    },
+    {
+        "uid": "055",
+        "name": "Killstreak Discount 3",
+        "requiredItems": [
+            {"name": "Kill the Bomb Maker", "quantity": 6, "location": "Ashika Island", "action": "Kill"}
+        ],
+        "group": "Killstreaks",
+        "reward": "25% Reduced Cost of Killstreaks"
+    },
+    {
+        "uid": "056",
+        "name": "Personal Exfil Discount 1",
+        "requiredItems": [
+            {
+                "name": "Kill the Helo Commander",
+                "quantity": 4,
+                "location": "AM, Ashika, Vondel",
+                "action": "Kill"
+            }
+        ],
+        "group": "Personal Exfil",
+        "reward": "10% Reduced Cost of Personal Exfil"
+    },
+    {
+        "uid": "057",
+        "name": "Personal Exfil Discount 2",
+        "requiredItems": [
+            {
+                "name": "Kill the Helo Commander",
+                "quantity": 5,
+                "location": "AM, Ashika, Vondel",
+                "action": "Kill"
+            }
+        ],
+        "group": "Personal Exfil",
+        "reward": "20% Reduced Cost of Personal Exfil"
+    },
+    {
+        "uid": "058",
+        "name": "Personal Exfil Discount 3",
+        "requiredItems": [
+            {
+                "name": "Kill the Helo Commander",
+                "quantity": 10,
+                "location": "AM, Ashika, Vondel",
+                "action": "Kill"
+            }
+        ],
+        "group": "Personal Exfil",
+        "reward": "25% Reduced Cost of Personal Exfil"
+    },
+    {
+        "uid": "059",
+        "name": "Armor Plate Discount 1",
+        "requiredItems": [
+            {
+                "name": "Kill the Pyro",
+                "quantity": 4,
+                "location": "Al Mazrah",
+                "action": "Kill"
+            }
+        ],
+        "group": "Armor Discount",
+        "reward": "Armor Plates are $50 Cheaper"
+    },
+    {
+        "uid": "060",
+        "name": "Armor Plate Discount 2",
+        "requiredItems": [
+            {
+                "name": "Kill the Pyro",
+                "quantity": 6,
+                "location": "Al Mazrah",
+                "action": "Kill"
+            }
+        ],
+        "group": "Armor Discount",
+        "reward": "Armor Plates are $100 Cheaper"
+    },
+    {
+        "uid": "061",
+        "name": "Armor Plate Discount 3",
+        "requiredItems": [
+            {
+                "name": "Kill the Pyro",
+                "quantity": 10,
+                "location": "Al Mazrah",
+                "action": "Kill"
+            }
+        ],
+        "group": "Armor Discount",
+        "reward": "Armor Plates are $150 Cheaper"
+    },
+    {
+        "uid": "062",
+        "name": "Workbench Discount 1",
+        "requiredItems": [
+            {
+                "name": "Kill Sniper or Rhino",
+                "quantity": 4,
+                "location": "Koschei Complex",
+                "action": "Kill"
+            }
+        ],
+        "group": "Workbench",
+        "reward": "10% Workbench Discount"
+    },
+    {
+        "uid": "063",
+        "name": "Workbench Discount 2",
+        "requiredItems": [
+            {
+                "name": "Kill Sniper or Rhino",
+                "quantity": 10,
+                "location": "Koschei Complex",
+                "action": "Kill"
+            }
+        ],
+        "group": "Workbench",
+        "reward": "20% Workbench Discount"
+    },
+    {
+        "uid": "064",
+        "name": "Workbench Discount 3",
+        "requiredItems": [
+            {
+                "name": "Kill Sniper or Rhino",
+                "quantity": 20,
+                "location": "Koschei Complex",
+                "action": "Kill"
+            }
+        ],
+        "group": "Workbench",
+        "reward": "25% Workbench Discount"
+    },
+    {
+        "uid": "065",
+        "name": "Black Mous Daily Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Extract with a full Large backpack",
+                "quantity": 1
+            }
+        ],
+        "group": "Daily Missions",
+        "reward": "Black Mous Daily Urgent Missions"
+    },
+    {
+        "uid": "066",
+        "name": "White Lotus Daily Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Al Qatala Planning Diagrams or Images",
+                "quantity": 2
+            }
+        ],
+        "group": "Daily Missions",
+        "reward": "White Lotus Daily Urgent Missions"
+    },
+    {
+        "uid": "067",
+        "name": "Phalanx Daily Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Hydrogen Peroxide, Cephalexin, or Acetone",
+                "quantity": 3
+            }
+        ],
+        "group": "Daily Missions",
+        "reward": "Phalanx Daily Urgent Missions"
+    },
+    {
+        "uid": "068",
+        "name": "Crown Daily Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Classified Documents",
+                "quantity": 3
+            }
+        ],
+        "group": "Daily Missions",
+        "reward": "Crown Daily Urgent Missions"
+    },
+    {
+        "uid": "069",
+        "name": "Shadow Company Daily Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Keys",
+                "quantity": 10,
+                "action": "Dead Drop"
+            }
+        ],
+        "group": "Daily Missions",
+        "reward": "Shadow Company Daily Urgent Missions"
+    },
+    {
+        "uid": "070",
+        "name": "Black Mous Weekly Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Scavenger Calling Cards",
+                "quantity": 12
+            }
+        ],
+        "group": "Weekly Missions",
+        "reward": "Black Mous Weekly Urgent Missions"
+    },
+    {
+        "uid": "071",
+        "name": "White Lotus Weekly Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Liquid Nitrogen",
+                "quantity": 10
+            }
+        ],
+        "group": "Weekly Missions",
+        "reward": "White Lotus Weekly Urgent Missions"
+    },
+    {
+        "uid": "072",
+        "name": "Crown Weekly Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Heavy Chopper Fuel",
+                "quantity": 10
+            }
+        ],
+        "group": "Weekly Missions",
+        "reward": "Crown Weekly Urgent Missions"
+    },
+    {
+        "uid": "073",
+        "name": "Phalanx Weekly Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Origami Horses",
+                "quantity": 5
+            }
+        ],
+        "group": "Weekly Missions",
+        "reward": "Phalanx Weekly Urgent Missions"
+    },
+    {
+        "uid": "074",
+        "name": "Shadow Company Weekly Urgent Missions",
+        "requiredItems": [
+            {
+                "name": "Encrypted Hard Drives",
+                "quantity": 10,
+                "location": "Building 21"
+            }
+        ],
+        "group": "Weekly Missions",
+        "reward": "Shadow Company Weekly Urgent Missions"
+    },
+    {
+        "uid": "075",
+        "name": "Increased Contract Payment 1",
+        "requiredItems": [
+            {
+                "name": "Complete Contracts",
+                "quantity": 100,
+                "action": "Contracts"
+            }
+        ],
+        "group": "Contracts",
+        "reward": "10% Contract Payment Increase"
+    },
+    {
+        "uid": "076",
+        "name": "Increased Contract Payment 2",
+        "requiredItems": [
+            {
+                "name": "Complete Contracts",
+                "quantity": 200,
+                "action": "Contracts"
+            }
+        ],
+        "group": "Contracts",
+        "reward": "10% Contract Payment Increase"
+    },
+    {
+        "uid": "077",
+        "name": "Increased Contract Payment 3",
+        "requiredItems": [
+            {
+                "name": "Complete Contracts",
+                "quantity": 300,
+                "action": "Contracts"
+            }
+        ],
+        "group": "Contracts",
+        "reward": "5% Contract Payment Increase"
+    },
+    {
+        "uid": "078",
+        "name": "Increased Commander Intel",
+        "requiredItems": [
+            {
+                "name": "Laptops",
+                "quantity": 15
+            },
+            {
+                "name": "Encrypted Thumb Drives",
+                "quantity": 6
+            },
+            {
+                "name": "Encrypted Hard Drives",
+                "quantity": 3
+            }
+        ],
+        "group": "Intel",
+        "reward": "2nd Marked Commander from Intel"
+    },
+    {
+        "uid": "079",
+        "name": "Increased Safe Intel",
+        "requiredItems": [
+            {
+                "name": "Plastic Explosives",
+                "quantity": 6
+            },
+            {
+                "name": "VCRs",
+                "quantity": 5
+            },
+            {
+                "name": "Electrical Components",
+                "quantity": 20
+            }
+        ],
+        "group": "Intel",
+        "reward": "1 extra safe from Destroy Supplies"
+    },
+    {
+        "uid": "080",
+        "name": "Increased Safe Contents",
+        "requiredItems": [
+            {
+                "name": "$1M Cash",
+                "quantity": 1,
+                "action": "Dead Drop"
+            },
+            {
+                "name": "Sensitive or Classified Documents",
+                "quantity": 8
+            }
+        ],
+        "group": "Caches",
+        "reward": "Safes hold more items"
+    },
+    {
+        "uid": "081",
+        "name": "Increased Supply Cache Contents",
+        "requiredItems": [
+            {
+                "name": "Armor Plate Carriers",
+                "quantity": 10,
+                "action": "Dead Drop"
+            },
+            {
+                "name": "3-Plate Carriers",
+                "quantity": 6,
+                "action": "Dead Drop"
+            },
+            {
+                "name": "Self Revives",
+                "quantity": 6,
+                "action": "Dead Drop"
+            }
+        ],
+        "group": "Caches",
+        "reward": "Supply caches hold more items"
+    },
+    {
+        "uid": "082",
+        "name": "Increased UAV Tower Duration 1",
+        "requiredItems": [
+            {
+                "name": "Drills",
+                "quantity": 4
+            },
+            {
+                "name": "Screwdrivers",
+                "quantity": 5
+            },
+            {
+                "name": "Wrenches",
+                "quantity": 3
+            },
+            {
+                "name": "Hard Drives",
+                "quantity": 4
+            },
+            {
+                "name": "Electrical Tape",
+                "quantity": 3
+            },
+            {
+                "name": "Batteries",
+                "quantity": 3
+            }
+        ],
+        "group": "UAV",
+        "reward": "30 second UAV Tower increase"
+    },
+    {
+        "uid": "083",
+        "name": "Increased UAV Tower Duration 2",
+        "requiredItems": [
+            {
+                "name": "Vintage Wine",
+                "quantity": 4
+            },
+            {
+                "name": "Soothing Hand Cream",
+                "quantity": 10
+            },
+            {
+                "name": "Cigar Boxes",
+                "quantity": 10,
+                "location": "Ashika Island"
+            },
+            {
+                "name": "Lighters",
+                "quantity": 10
+            }
+        ],
+        "group": "UAV",
+        "reward": "30 second UAV Tower increase"
+    },
+    {
+        "uid": "084",
+        "name": "Increased UAV Tower Duration 3",
+        "requiredItems": [
+            {
+                "name": "Encrypted Hard Drives",
+                "quantity": 9,
+                "location": "Vondel"
+            },
+            {
+                "name": "Formaldehyde",
+                "quantity": 5
+            },
+            {
+                "name": "Cephalexin",
+                "quantity": 10
+            },
+            {
+                "name": "Large Medical Bags",
+                "quantity": 10
+            }
+        ],
+        "group": "UAV",
+        "reward": "30 second UAV Tower increase"
+    },
+    {
+        "uid": "085",
+        "name": "Increased SAM Site Duration 1",
+        "requiredItems": [
+            {
+                "name": "Water Bottles",
+                "quantity": 15
+            },
+            {
+                "name": "Ashika Liquor",
+                "quantity": 10,
+                "location": "Ashika Island"
+            },
+            {
+                "name": "Aged or Vintage Wine",
+                "quantity": 8
+            }
+        ],
+        "group": "Sam Site",
+        "reward": "30 second SAM Site increase"
+    },
+    {
+        "uid": "086",
+        "name": "Increased SAM Site Duration 2",
+        "requiredItems": [
+            {
+                "name": "VCRs",
+                "quantity": 6
+            },
+            {
+                "name": "Laptops",
+                "quantity": 8,
+                "location": "Ashika Island"
+            },
+            {
+                "name": "Game Consoles",
+                "quantity": 5
+            },
+            {
+                "name": "GPU",
+                "quantity": 1
+            }
+        ],
+        "group": "Sam Site",
+        "reward": "30 second SAM Site increase"
+    },
+    {
+        "uid": "087",
+        "name": "Increased SAM Site Duration 3",
+        "requiredItems": [
+            {
+                "name": "Acetone",
+                "quantity": 7
+            },
+            {
+                "name": "Radiation Blockers",
+                "quantity": 33
+            },
+            {
+                "name": "Gun Oil",
+                "quantity": 12
+            },
+            {
+                "name": "Toothpaste",
+                "quantity": 16
+            }
+        ],
+        "group": "Sam Site",
+        "reward": "30 second SAM Site increase"
+    },
+    {
+        "uid": "088",
+        "name": "Increased Exfil Chopper Speed",
+        "requiredItems": [
+            {
+                "name": "Extract $100k on Final Exfils",
+                "quantity": 10
+            }
+        ],
+        "group": "Exfil Chopper",
+        "reward": "Exfil Chopper Arrives Faster"
+    }
 ]
