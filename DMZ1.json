@@ -1172,19 +1172,5 @@
         ],
         "group": "Exfil Chopper",
         "reward": "Exfil Chopper Arrives Faster"
-    },
-    {
-        "uid": "091",
-        "name": "Unlock Wallet Again",
-        "requiredItems": [
-            {
-                "name": "200k Cash",
-                "quantity": 1,
-                "location": "All Maps",
-                "action": "Exfil"
-            }
-        ],
-        "group": "Wallet",
-        "reward": "Wallet Again"
-    },
+    }
 ]
