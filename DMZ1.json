@@ -1,13 +1,13 @@
 [
     {
         "uid": "001",
-        "name": "Unlock Wallet Dude",
+        "name": "Unlock Wallet",
         "requiredItems": [
             {
                 "name": "100k Cash",
-                "quantity": 2,
-                "location": "My House",
-                "action": "Run"
+                "quantity": 1,
+                "location": "All Maps",
+                "action": "Exfil"
             }
         ],
         "group": "Wallet",
