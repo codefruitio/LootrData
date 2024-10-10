@@ -1,7 +1,7 @@
 [
     {
         "uid": "001",
-        "name": "Unlock Wallet Boi",
+        "name": "Unlock Wallet",
         "requiredItems": [
             {
                 "name": "100k Cash",
