@@ -1172,5 +1172,33 @@
         ],
         "group": "Exfil Chopper",
         "reward": "Exfil Chopper Arrives Faster"
+    },
+    {
+        "uid": "091",
+        "name": "3rd Insured Slot Cooldown 2",
+        "requiredItems": [
+            {
+                "name": "Damascus Dog Tag",
+                "quantity": 1
+            },
+            {
+                "name": "Silver Dog Tags",
+                "quantity": 3
+            },
+            {
+                "name": "Weapon Cases",
+                "quantity": 3
+            },
+            {
+                "name": "Gold Dog Tags",
+                "quantity": 2
+            },
+            {
+                "name": "Dog Tags",
+                "quantity": 10
+            }
+        ],
+        "group": "Exfil Chopper",
+        "reward": "Exfil Chopper Arrives Faster"
     }
 ]
